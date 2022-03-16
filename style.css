@@ -1,0 +1,30 @@
+.header_graphics {
+    width: 100%;
+    height: auto;
+    background-image: url("https://source.unsplash.com/random/500x500?sig=1");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.advantages_card_graphics {
+    background-image: url("https://source.unsplash.com/random/200x200?sig=4");
+    background-size: cover;
+    height: 15rem;
+}
+
+.product_graphic {
+    background-image: url("https://source.unsplash.com/random/200x200?sig=5");
+    height: 100%;
+    width: 100%;
+    background-size: contain;
+}
+
+.team_graphics {
+    background-image: url("https://source.unsplash.com/random/200x200?sig=7");
+    background-size: contain;
+}
+
+nav > a {
+    margin-top: 0.8rem;
+    height: 100%;
+}
